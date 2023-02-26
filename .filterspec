@@ -1,0 +1,7 @@
+# Only the paths listed in the file will be downloaded when performing a
+# partial clone using `--filter=sparse:oid=shiny-app/.gitfilterspec`
+
+
+# Shiny App
+resources/functions
+
